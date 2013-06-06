@@ -5,6 +5,11 @@ What
 ------------
 Generates a very random string (can be used for unique identifiers)
 
+How
+------------
+Simply add it as a submodule to your app. This link works with heroku
+
+git submodule add git://github.com/nolim1t/randomstring.git app/path/to/submodule
 
 Libraries
 ------------
